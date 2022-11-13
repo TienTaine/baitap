@@ -1,5 +1,3 @@
-
-
 void bt19()
 {
 	int soGio, thoiDiem, ngay,loaiPhong,tien;
@@ -63,3 +61,7 @@ void bt19()
 				{
 					tien = 200000 * soGio;
 					cout << "So tien: " << tien;
+				}
+}
+int main()	
+{
